@@ -52,3 +52,52 @@ body {
   padding: 5px .5em;
   vertical-align: top;
 }
+
+.logo{
+}
+.first_header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#7390a9;
+  height: 300px;
+}
+
+.second_header{
+  display: flex;
+  background-color: #e1e1e1;
+}
+h1{
+  color:#06365f
+}
+ul {
+  list-style: none;
+float: left;}
+
+.left_footer>a{
+  color:#1c5380;
+  text-decoration: none;
+}
+footer{
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+}
+.left_footer{
+  justify-content: end;
+}
+.column{
+display: flex;
+margin-top: 100px;
+justify-content: center;
+align-items: center;
+position: absolute;
+}
+.white_box_frame{
+  display: flex;
+}
+
+.download{
+display: flex;
+justify-content: flex-end; 
+}

@@ -11,13 +11,14 @@ header .logo, header nav {
 
 
 .container .aboutrow {
-
+display: flex;
 }
 
 
 /* feature */
 
 .feature {
+display: flex;
 
 }
 
@@ -35,7 +36,6 @@ footer {
 }
 
 .footer-left {
-
 }
 
 .footer-left .footer-col {
